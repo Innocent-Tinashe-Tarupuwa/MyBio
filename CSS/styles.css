@@ -1,0 +1,128 @@
+body{
+  color: #40514E
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.top-container{
+  background-color: #E4F9F6;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Open Sans', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Open Sans', cursive;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration:none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.middle-container{
+  margin: 100px 0;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0px 20px;
+  }
+
+  .Bio{
+    width: 40%;
+    margin: auto;
+  }
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.profile{
+  width: 70%;
+  margin: 100px auto 100px auto;
+}
+.profile-picture{
+  width: 25%;
+}
+
+.Automation{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Programming{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
